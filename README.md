@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/44/instagram-icon.svg">]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/44/instagram-icon.svg">][instagram]
 
 <br />
 <!---

@@ -4,9 +4,9 @@
 
 -   🎓 I'm currently pursuing btech in Computer Science and Engineering.
 -   👀 I’m interested in Web development concepts.
--   🌱 I’m currently learning Django.
+-   🌱 I’m currently learning NodeJs.
 -   💞️ I’m looking to collaborate on different projects.
--   📖 I love reading books
+-   📖 I love reading books.
 
 ### Connect with me:
 

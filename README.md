@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Amitesh</h1>
 <h3 align="center">I'm a Student, Programmer and Crazy_learner!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=790b7611b034928861e4d606a78f55e5a93844fb5fcd6bba&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F2641090.gif&f=1&nofb=1&ipt=d63a04ebea3ebb921c19107e0d198e27fdd39c40b476dfee137c82483895166b&ipo=images">
 
 - 🔭 I’m currently pursuing **Btech in Computer Science and Engineering.**
 
